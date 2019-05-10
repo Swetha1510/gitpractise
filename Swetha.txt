@@ -1,0 +1,2 @@
+THIS IS PRACTISE FOR GIT BASH.
+Hello This is my file.
